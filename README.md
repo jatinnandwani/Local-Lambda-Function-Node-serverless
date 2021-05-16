@@ -1,1 +1,1 @@
-# Local-Lambda-Function-Node-serverless Deployment
+# Local-Lambda-Function-Node-serverless
